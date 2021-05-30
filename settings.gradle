@@ -1,0 +1,8 @@
+rootProject.name = 'fastmapper'
+
+include 'core'
+
+include 'benchmark'
+
+
+
